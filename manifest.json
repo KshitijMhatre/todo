@@ -17,8 +17,8 @@
       "type": "image/png",
       "sizes": "512x512"
     }
-  ],
-  "start_url": "/todo/",
+  ],  
+  "start_url": "https://kshitijmhatre.github.io/todo/",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
